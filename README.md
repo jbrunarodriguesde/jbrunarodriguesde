@@ -21,11 +21,11 @@ Sou formada como **Técnica em Informática pela Universidade Federal de Viçosa
 
 Atuo na criação de interfaces, sites, aplicações web e sistemas administrativos, buscando transformar ideias em produtos digitais intuitivos, responsivos e eficientes.
 
-- 💻 Desenvolvimento Front-end e aplicações web.
-- 🎨 UI/UX, design de interfaces e experiências digitais.
-- 🧠 Interesse em ciência de dados, automação e inteligência artificial.
-- 🚀 Desenvolvimento de projetos autorais e soluções para negócios.
-- 📍 Minas Gerais, Brasil.
+- <img src="https://api.iconify.design/lucide/code-2.svg?color=%238BEDE9" width="17" height="17" alt="" /> Desenvolvimento Front-end e aplicações web.
+- <img src="https://api.iconify.design/lucide/palette.svg?color=%238BEDE9" width="17" height="17" alt="" /> UI/UX, design de interfaces e experiências digitais.
+- <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%238BEDE9" width="17" height="17" alt="" /> Interesse em ciência de dados, automação e inteligência artificial.
+- <img src="https://api.iconify.design/lucide/rocket.svg?color=%238BEDE9" width="17" height="17" alt="" /> Desenvolvimento de projetos autorais e soluções para negócios.
+- <img src="https://api.iconify.design/lucide/map-pin.svg?color=%238BEDE9" width="17" height="17" alt="" /> Minas Gerais, Brasil.
 
 ---
 
